@@ -18,7 +18,8 @@ my_analyzer = whoosh.analysis.LanguageAnalyzer("es") | whoosh.analysis.CharsetFi
 
 schema = whoosh.fields.Schema(
     code = whoosh.fields.ID(stored=True),
-    description = whoosh.fields.TEXT(stored=True,analyzer=my_analyzer)
+    description = whoosh.fields.TEXT(stored=True,analyzer=my_analyzer),
+    description_additional = whoosh.fields.TEXT(stored=False,analyzer=my_analyzer)
 )
 
 
@@ -32,7 +33,7 @@ writer = ix.writer()
 with open('cie-o.csv', newline='', encoding="utf-8-sig") as csvfile:
     reader = csv.DictReader(csvfile, delimiter=";")
     for row in reader:
-        writer.add_document(code=row["code"],description=row["description"])
+        writer.add_document(code=row["code"],description=row["description"],description_additional=row["description_additional"])
 
 
 writer.commit()
