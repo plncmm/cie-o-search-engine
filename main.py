@@ -17,6 +17,20 @@ async def search_cieom(q: str):
         response.append(result.fields())
     return response
 
+ix_t = whoosh.index.open_dir("index_t")
+parser_t = whoosh.qparser.MultifieldParser(["description","description_additional"], ix_t.schema, group=whoosh.qparser.OrGroup.factory(0.9))
+searcher_t = ix_t.searcher()
+
+@app.get("/cie-o-t")
+async def search_cieom(q: str):  
+    myquery = parser_t.parse(q)
+    results = searcher_t.search(myquery, limit=10, terms=True)
+    response = []
+    for result in results:
+        response.append(result.fields())
+    return response
+
 @app.on_event('shutdown')
 def shutdown():
     searcher_m.close()
+    searcher_t.close()

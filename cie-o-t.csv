@@ -1,0 +1,331 @@
+﻿code;description;description_additional
+C00.0;Labio superior, parte externa;Borde rojo libre del labio superior Labio superior, SAI (excluye piel del labio superior, C44.0)
+C00.1;Labio inferior, parte externa;Borde rojo libre del labio inferior Labio inferior, SAI (excluye piel del labio inferior, C44.0)
+C00.2;Labio, parte externa, SAI;Borde rojo del labio, SAI
+C00.3;Mucosa del labio superior;Cara interna del labio superior Frenillo del labio superior
+C00.4;Mucosa del labio inferior;Cara interna del labio inferior Frenillo del labio inferior
+C00.5;Mucosa del labio, SAI;Cara interna del labio, SAI Labio interno, SAI Frenillo labial, SAI Frenulum labii, SAI
+C00.6;Comisura del labio;Comisura labial
+C00.8;Lesión solapada, que comparte los límites de dos o más subcategorías del labio;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C00.9;Labio, SAI (excluye Piel del labio C44.0);(excluye piel del labio, C44.0)
+C01.9;Base de la lengua, SAI;Cara dorsal de la base de la lengua Lengua posterior, SAI Raíz de la lengua Tercio posterior de la lengua
+C02.0;Superficie dorsal de la lengua, SAI;Dos tercios anteriores de la lengua, cara dorsal Línea media de la lengua Superficie dorsal anterior de la lengua
+C02.1;Borde de la lengua;Punta de la lengua
+C02.2;Superficie ventral de la lengua, SAI;Dos tercios anteriores de la lengua, cara ventral Frenillo lingual Superficie ventral anterior de la lengua, SAI
+C02.3;Dos tercios anteriores de la lengua, SAI;Lengua anterior, SAI
+C02.4;Amígdala lingual;Tonsila lingual
+C02.8;Lesión solapada, que comparte los límites de dos o más subcategorías de la lengua;Zona de unión de la lengua (Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.)
+C02.9;Lengua, SAI;Lingual, SAI
+C03.0;Encía superior;Alvéolo superior Gingiva maxilar Gingiva superior Mucosa alveolar superior Mucosa del borde alveolar superior
+C03.1;Encía inferior;Alvéolo inferior Gingiva inferior Gingiva maxilar Mucosa alveolar inferior Mucosa del borde alveolar inferior
+C03.9;Encía, SAI;Alvéolo, SAI Gingiva, SAI Mucosa alveolar, SAI Mucosa del borde alveolar, SAI Alvéolo dentario Tejido periodontal
+C04.0;Parte anterior del suelo de la boca;
+C04.1;Parte lateral del suelo de la boca;
+C04.8;Lesión solapada, que comparte los límites de dos o más subcategorías del suelo de la boca;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C04.9;Suelo de la boca, SAI;
+C05.0;Paladar duro;
+C05.1;Paladar blando, SAI (excluye Cara nasofaríngea del paladar blando C11.3);(excluye cara nasofaríngea del paladar blando C11.3)
+C05.2;Uvula;
+C05.8;Lesión solapada, que comparte los límites de dos o más subcategorías del paladar;Unión del paladar duro y del paladar blando (Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.)
+C05.9;Paladar, SAI;Techo de la boca
+C06.0;Mucosa de la mejilla;Mejilla interna Mucosa bucal
+C06.1;Vestíbulo de la boca;Surco alveolar Surco bucal Surco labial
+C06.2;Area retromolar;Triángulo retromolar Trígono retromolar
+C06.8;Lesión solapada, que comparte los límites de dos o más subcategorías de otras partes y las no especificadas de la boca;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C06.9;Boca, SAI;"Cavidad bucal Cavidad oral Mucosa oral Glándulas salivales menores, SAI  (Nota: las neoplasias de las glándulas salivales menores deben ser codificadas de acuerdo con su localización anatómica;  si esa localización no es específica, codificar en C06.9)"
+C07.9;Glándula parótida;Parótida, SAI Conducto de Stensen Conducto de la glándula parótida
+C08.0;Glándula submandibular;Glándula submaxilar Conducto de Wharton Conducto de la glándula submaxilar
+C08.1;Glándula sublingual;Conducto de la glándula sublingual
+C08.8;Lesión solapada, que comparte los límites de dos o más subcategorías de las glándulas salivales  mayores;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C08.9;Glándula salival mayor, SAI;Glándula salival menor, SAI (excluye glándulas salivales menores, SAI, C06.9, ver nota bajo C08)
+C09.0;Fosa amigdalina;
+C09.1;Pilar amigdalino;Pilar de las fauces Pliegue glosopalatino
+C09.8;Lesión solapada, que comparte los límites de dos o más subcategorías de la amígdala;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C09.9;Amígdala, SAI (excluye Amígdala lingual C02.4 y Amígdala faríngea C11.1);(excluye amígdala lingual, C02.4, y amígdala parafaríngea, C11.1) Amígdala faucal Amígdala palatina
+C10.0;Valécula epiglótica;
+C10.1;Cara anterior de la epiglotis;
+C10.2;Pared lateral de la orofaringe;Pared lateral de la mesofaringe
+C10.3;Pared posterior de la orofaringe;Pared posterior de la mesofaringe
+C10.4;Hendidura branquial (localización del tumor);(sitio de la neoplasia)
+C10.8;Lesión solapada, que comparte los límites de dos o más subcategorías de la orofaringe;Zona de unión de la orofaringe (Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.)
+C10.9;Orofaringe, SAI;Fauces, SAI Mesofaringe, SAI
+C11.0;Pared superior de la nasofaringe;Techo de la nasofaringe
+C11.1;Pared posterior de la nasofaringe;Adenoide Amígdala faríngea
+C11.2;Pared lateral de la nasofaringe;Fosa de Rosenmüller
+C11.3;Pared anterior de la nasofaringe;Borde posterior del tabique nasal Cara nasofaríngea del paladar blando Coana Piso de la nasofaringe
+C11.8;Lesión solapada, que comparte los límites de dos o más subcategorías de la nasofaringe;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C11.9;Nasofaringe, SAI;Pared nasofaríngea
+C12.9;Seno piriforme;Fosa piriforme Seno piriforme
+C13.0;Región postcricoidea;Cricofaringe Cricoide, SAI
+C13.1;Cara hipofaríngea del pliegue aritenoepiglótico;Pliegue aritenoepiglótico, SAI (excluye pliegue de la cara laríngea del pliegue aritenoepiglótico C32.1) Pliegue aritenoideo
+C13.2;Pared posterior de la hipofaringe;
+C13.8;Lesión solapada, que comparte los límites de dos o más subcategorías de la hipofaringe;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C13.9;Hipofaringe, SAI;Laringofaringe Pared hipofaríngea, SAI
+C14.0;Faringe, SAI;Garganta Pared faríngea, SAI Pared de la faringe, SAI Pared lateral de la faringe, SAI Pared posterior de la faringe, SAI Retrofaringe
+C14.2;Anillo de Waldeyer;
+C14.8;Lesión solapada del labio, cavidad oral y faringe;Nota: neoplasias del labio, la cavidad bucal y la faringe cuyos sitios de origen no pueden ser clasificados en ninguna de las categorías C00 a C14.2
+C15.0;Esófago cervical;
+C15.1;Esófago torácico;
+C15.2;Esófago abdominal;
+C15.3;Tercio superior del esófago;Tercio proximal del esófago
+C15.4;Tercio medio del esófago;
+C15.5;Tercio inferior del esófago;Tercio distal del esófago
+C15.8;Lesión solapada, que comparte los límites de dos o más subcategorías del esófago;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8
+C15.9;Esófago, SAI;
+C16.0;Cardias, SAI;Cardias gástrico Unión cardioesofágica Unión esofagogástrica Unión gastroesofágica
+C16.4;Píloro;Canal pilórico Prepíloro
+C16.6;Curvatura mayor del estómago, SAI (no clasificable entre C16.0-C16.4);(no clasificable en C16.0 a C16.4)
+C16.8;Lesión solapada, que comparte los límites de dos o más subcategorías del estómago;Pared anterior del estómago, SAI (no clasificable en C16.0 a C16.4) Pared posterior del estómago, SAI (no clasificable en C16.0 a C16.4) (Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.)
+C16.1;Fondo del estómago;Fondo gástrico
+C16.2;Cuerpo del estómago;Corpus del estómago Cuerpo gástrico
+C16.3;Antro gástrico;Antro del estómago Antro pilórico
+C16.5;Curvatura menor del estómago, SAI (no clasificable entre C16.1-C16.4);(no clasificable en C16.1 a C16.4)
+C16.9;Estómago, SAI;Gástrico, SAI
+C17.8;Lesión solapada, que comparte los límites de dos o más subcategorías del intestino delgado;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C17.0;Duodeno;
+C17.1;Yeyuno;
+C17.2;Ileon (excluye Válvula ileocecal C18.0);(excluye válvula ileocecal C18.0)
+C17.3;Divertículo de Meckel (localización del tumor);(sitio de la neoplasia)
+C17.9;Intestino delgado, SAI;Intestino delgado, SAI
+C18.8;Lesión solapada, que comparte los límites de dos o más subcategorías del colon;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C18.0;Ciego;Unión ileocecal Válvula ileoceca
+C18.1;Apéndice;
+C18.2;Colon ascendente;Colon derecho
+C18.3;Angulo hepático del colon;
+C18.4;Colon transverso;
+C18.5;Angulo esplénico del colon;
+C18.6;Colon descendente;Colon izquierdo
+C18.7;Colon sigmoide;Ángulo sigmoide del colon Colon pélvico Sigmoide, SAI
+C18.9;Colon, SAI;Intestino grueso (excluye recto, SAI C20.9 y unión rectosigmoide, C19.9) Intestino grueso, SAI
+C19.9;Unión rectosigmoidea;Colon rectosigmoideo Rectosigmoide, SAI Colon y recto Unión pelvirrectal
+C20.9;Recto, SAI;Ampolla rectal
+C21.0;Ano, SAI (excluye Piel del ano y Piel perianal C44.5);(excluye piel del ano y piel perianal, C44.5)
+C21.2;Zona de la cloaca;
+C21.8;Lesión solapada, que comparte los límites de dos o más subcategorías del recto, ano y canal anal;Anorrecto Unión anorrectal (Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.)
+C21.1;Canal anal;Esfinter anal
+C22.0;Hígado;Hepatoma, SAI
+C22.1;Vías biliares intrahepáticas;Canalículos biliares Colangiolo
+C23.9;Vesícula biliar;
+C24.1;Ampolla de Vater;Periampollar
+C24.8;Lesión solapada, que comparte los límites de dos o más subcategorías de las vías biliares;Nota: neoplasias que envuelven ambos conductos biliares intra y extrahepáticos  (Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.)
+C24.0;Vías biliares extrahepáticas;Conducto biliar, SAI Conducto bilioso, SAI Conducto biliar cístico Conducto cístico Conducto biliar común Conducto común Conducto biliar hepático Conducto hepático Conducto colédoco Esfinter de Oddi
+C24.9;Vías biliares, SAI;
+C25.8;Lesión solapada, que comparte los límites de dos o más subcategorías del páncreas;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C25.0;Cabeza del páncreas;
+C25.1;Cuerpo del páncreas;
+C25.2;Cola del páncreas;
+C25.3;Conducto pancreático;Conducto de Santorini Conducto de Wirsung
+C25.4;Islotes de Langerhans;Islas de Langerhans Páncreas endocrino
+C25.7;Otras partes especificadas del páncreas;Cuello del páncreas
+C25.9;Páncreas, SAI;
+C26.0;Tracto intestinal, SAI;Intestino, SAI
+C26.8;Lesión solapada del aparato digestivo;Nota: neoplasias de órganos digestivos cuyo sitio de origen no puede ser asignado a ninguna de las categorías C15 a C26.0 (Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.)
+C26.9;Tracto gastrointestinal, SAI;Órganos digestivos, SAI Tracto alimentario, SAI
+C30.0;Fosa nasal (excluye Nariz, SAI C76.0 );Nariz interna Cartílago nasal Cavidad nasal Cornete nasal Mucosa nasal Orificio nasal Tabique nasal, SAI (excluye borde posterior del tabique nasal, C11.3) Vestíbulo nasal
+C30.1;Oido medio;Antro mastoideo Cavidad timpánica Conducto auditivo interno Oído interno Trompa de Eustaquio
+C31.8;Lesión solapada, que comparte los límites de dos o más subcategorías de los senos accesorios;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C31.0;Seno maxilar;Antro, SAI Antro maxilar
+C31.1;Seno etmoidal;
+C31.2;Seno frontal;
+C31.3;Seno esfenoidal;
+C31.9;Seno accesorio, SAI;Senos nasales accesorios
+C32.0;Glotis;Comisura laríngea Cuerda vocal, SAI Cuerda verdadera Cuerda vocal verdadera Laringe intrínseca
+C32.1;Región supraglótica;Bandas ventriculares de la laringe Falsa cuerda Falsa cuerda vocal Cara laríngea del pliegue aritenoepiglótico Cara posterior de la epiglotis Epiglotis, SAI (excluye cara anterior de la epiglotis, C10.1) Laringe extrínseca
+C32.8;Lesión solapada, que comparte los límites de dos o más subcategorías de la laringe;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C32.2;Región subglótica;
+C32.3;Cartílago laríngeo;Cartílago aritenoide Cartílago cricoide Cartílago cuneiforme Cartílago tiroideo
+C32.9;Laringe, SAI;
+C33.9;Tráquea;
+C34.8;Lesión solapada, que comparte los límites de dos o más subcategorías del pulmón;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C34.0;Bronquio principal;Carina Hilio pulmonar
+C34.1;Lóbulo superior del pulmón;Língula del pulmón Lóbulo superior, bronquio
+C34.2;Lóbulo medio del pulmón;Lóbulo medio, bronquio
+C34.3;Lóbulo inferior del pulmón;Lóbulo inferior, bronquio
+C34.9;Pulmón, SAI;Broncogénico Bronquio, SAI Bronquiolo Pulmonar, SAI
+C37.9;Timo;
+C38.8;Lesión solapada, que comparte los límites de dos o más subcategorías del corazón, mediastino y pleura;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C38.0;Corazón;Aurícula cardíaca Endocardio Epicardio Miocardio Pericardio Ventrículo cardíaco
+C38.1;Mediastino anterior;
+C38.2;Mediastino posterior;
+C38.3;Mediastino, SAI;
+C38.4;Pleura, SAI;Pleura parietal Pleura visceral
+C39.0;Vías respiratorias superiores, SAI;
+C39.9;Localizaciones mal definidas del aparato respiratorio;Vías respiratorias, SAI
+C39.8;Lesión solapada del aparato respiratorio y los órganos intratorácicos;Nota: neoplasias de órganos respiratorios e intratorácicos cuyo sitio de origen no puede ser asignado a ninguna de las categorías C30 a C39.0.
+C40.0;Huesos largos y articulaciones de la extremidad superior, escápula y articulaciones asociadas;Articulación acromioclavicular Articulación del codo Articulación del hombro Cintura escapular Cúbito Escápula Hueso del antebrazo Hueso del brazo Hueso del hombro Húmero Radio
+C40.9;Hueso de la extremidad, SAI;Articulación de las extremidades, SAI Cartílago articular de las extremidades, SAI Cartílago de las extremidades, SAI
+C40.1;Huesos cortos y articulaciones de la extremidad superior;Articulación de la mano Articulación de la muñeca Falange de la mano Hueso carpiano Hueso de la mano Hueso de la muñeca Hueso del dedo de la mano Hueso del pulgar Hueso metacarpiano
+C40.2;Huesos largos y articulaciones de la extremidad inferior;Articulación de la rodilla, SAI Cartílago semilunar Menisco lateral de la rodilla Menisco medio de la rodilla Fémur Hueso de la pierna Peroné Tibia
+C40.3;Huesos cortos y articulaciones de la extremidad inferior;Articulación de la garganta del pie Falange del pie Hueso de la rodilla Hueso del dedo del pie Hueso del pie Hueso del talón Hueso del tarso Hueso del tobillo Hueso metatarsiano Rótula
+C40.8;Lesión solapada, que comparte los límites de dos o más subcategorías de huesos, articulaciones y cartílagos articulares de las extremidades;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C41.0;Huesos y articulaciones del cráneo y de la cara;(excluye mandíbula, C41.1) Calvario Cráneo, SAI Hueso del cráneo Hueso cigomático Hueso esfenoides Hueso etmoides Hueso facial Hueso frontal Hueso hioides Hueso nasal Hueso occipital Hueso orbital Hueso parietal Hueso temporal Maxilar Hueso maxilar superior
+C41.3;Costilla, esternón, clavícula y articulaciones asociadas;Articulación costovertebral Articulación esternocostal Cartílago costal
+C41.9;Hueso, SAI;Articulación, SAI Cartílago, SAI Cartílago articular, SAI Hueso del esqueleto
+C41.1;Mandíbula;Hueso de la mandíbula inferior Hueso mandibular, SAI Articulación temporomandibular
+C41.2;Columna vertebral (excluye Sacro y Cóccix C41.4);(excluye sacro y cóccix, C41.4) Atlas Axis Columna espinal Disco intervertebral Espina Hueso de la espalda Núcleo pulposo Vértebra
+C41.4;Huesos de la pelvis, sacro, cóccix y articulaciones asociadas;Acetábulo Articulación de la cadera Cóccix Hueso de la cadera Hueso innominado Hueso pélvico Hueso púbico Isquión Íleon Sacro Sínfisis del pubis
+C41.8;Lesión solapada de huesos, articulaciones y cartílagos articulares;Nota: neoplasias de los huesos, articulaciones y del cartílago articular cuyo sitio de origen no puede ser asignado a ninguna de las categorías C40 a C41.
+C42.0;Sangre;
+C42.1;Médula ósea;
+C42.2;Bazo;
+C42.3;Sistema reticuloendotelial, SAI;
+C42.4;Sistema hematopoyético, SAI;
+C44.0;Piel del labio, SAI;Piel del labio inferior Piel del labio superior
+C44.4;Piel del cuero cabelludo y del cuello;Piel del cuello Piel del cuero cabelludo Cuero cabelludo, SAI Piel de la cabeza, SAI Piel de la región cervical Piel de la región supraclavicular
+C44.7;Piel de la extremidad inferior y de la cadera;Piel de: • cadera • dedo • hueco poplíteo • miembro inferior • muslo • pantorrilla • pie • pierna • rodilla • talón • tobillo Piel plantar Planta del pie Uña del dedo del pie
+C44.9;Piel, SAI (excluye Piel de la vulva C51._, Piel del pene C60.9 y Piel del escroto C63.2);(excluye piel de los labios mayores, C51.0, piel de la vulva, C51.9, piel del pene, C60.9, y piel del escroto, C63.2)
+C44.1;Piel del párpado;Palpebral Párpado, SAI Canto, SAI Canto externo Canto interno Glándula de Meibomio Párpado inferior Párpado superior
+C44.2;Oído externo;Aurícula, SAI Pinna Concha Conducto auditivo externo Conducto auditivo, SAI Conducto auricular, SAI Conducto auricular externo Conducto del oído Meato auditivo externo Glándula del cerumen Hélix Lóbulo de la oreja Oído, SAI Oreja Pabellón de la oreja Piel de la oreja Piel del oído, SAI Trago
+C44.3;Piel de otras partes y las no especificadas de la cara;Ala nasal Columela Ceja Frente Frente, SAI Mejilla externa Mentón, SAI Nariz externa Piel de: • cara • frente • mandíbula • mejilla • mentón • nariz • sien Sien, SAI
+C44.5;Piel del tronco;Piel de: • abdomen • ano • axila • espalda • flanco • ingle • mama • nalga • ombligo • pared abdominal • pared torácica • pecho • periné • región escapular • región glútea • región infraclavicular • región inguinal • región sacrococcígea • tórax • tronco Ombligo, SAI Piel perianal
+C44.6;Piel de la extremidad superior y del hombro;Piel de: • antebrazo • brazo • codo • dedo • espacio cubital anterior • extremidad superior • hombro • mano • muñeca • palma • pulgar Piel palmar Uña del dedo
+C44.8;Lesión solapada, que comparte los límites de dos o más subcategorías de la piel;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C47.2;Nervios periféricos y sistema nervioso autónomo de la extremidad inferior y la cadera;Nervios periféricos y sistema nervioso autónomo de (ver lista bajo C47): • cadera • dedo • hueco poplíteo • muslo • pantorrilla • pie • pierna • plantar • rodilla • talón • tobillo Nervio ciático Nervio femoral Nervio obturador
+C47.4;Nervios periféricos y sistema nervioso autónomo del abdomen;Nervios periféricos y sistema nervioso autónomo de (ver lista bajo C47): • ombligo • pared abdominal
+C47.6;Nervios periféricos y sistema nervioso autónomo del tronco, SAI;Nervios periféricos y sistema nervioso autónomo de (ver lista bajo C47): • espalda • flanco • tronco Nervio lumbar
+C47.9;Sistema nervioso autónomo, SAI;Ganglio, SAI Nervio, SAI Nervio espinal, SAI Nervio periférico, SAI Sistema nervioso parasimpático, SAI Sistema nervioso simpático, SAI
+C47.0;Nervios periféricos y sistema nervioso autónomo de la cabeza, la cara y el cuello (excluye Nervios periféricos y Sistema nervioso autónomo de la órbita C69.6);(excluye nervios periféricos y sistema nervioso autónomo de la órbita, C69.6) Nervios periféricos y sistema nervioso autónomo de (ver lista bajo C47): • cabeza • cara • cuello • cuero cabelludo • fosa pterigoidea • frente • mejilla • mentón • región cervical • región supraclavicular • sien Plexo cervical
+C47.1;Nervios periféricos y sistema nervioso autónomo de la extremidad superior y el hombro;Nervios periféricos y sistema nervioso autónomo de (ver lista bajo C47): • antebrazo • brazo • codo • dedo • espacio cubital anterior • hombro • mano • muñeca • pulgar Nervio braquial Nervio cubital Nervio mediano Nervio radial Plexo braquial
+C47.3;Nervios periféricos y sistema nervioso autónomo del tórax;Nervios periféricos y sistema nervioso autónomo de (ver lista bajo C47): • axila • pared del pecho • pared torácica • pecho • región escapular • región infraclavicular Nervio intercostal
+C47.5;Nervios periféricos y sistema nervioso autónomo de la pelvis;Nervios periféricos y sistema nervioso autónomo de (ver lista bajo C47): • ingle • nalga • perineo • región glútea • región inguinal • región sacrococcígea Nervio sacro Plexo lumbosacro Plexo sacro
+C47.8;Lesión solapada, que comparte los límites de dos o más subcategorías de los nervios periféricos y el sistema nervioso autónomo;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C48.2;Peritoneo, SAI;Cavidad peritoneal
+C48.0;Retroperitoneo;Tejido periadrenal Tejido perinéfrico Tejido peripancreático Tejido perirrenal Tejido retrocecal Tejido retroperitoneal
+C48.1;Partes especificadas del peritoneo;Epiplón Mesenterio Mesoapéndice Mesocolon Omento Peritoneo pélvico Saco rectouterino Fondo de saco Saco de Douglas (Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.)
+C48.8;Lesión solapada, que comparte los límites de dos o más subcategorías del retroperitoneo y peritoneo;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C49.1;Tejido conjuntivo, subcutáneo y otros tejidos blandos de la extremidad superior y hombro;Tejido conjuntivo, subcutáneo y otros tejidos blandos de (ver lista bajo C49): • antebrazo • brazo • codo • dedo • espacio antecubital • hombro • mano • muñeca • pulgar Aponeurosis palmar Arteria cubital Arteria radial Fascia palmar Músculo bíceps braquial Músculo braquial Músculo coracobraquial Músculo deltoides Músculo tríceps braquial
+C49.5;Tejido conjuntivo, subcutáneo y otros tejidos blandos de la pelvis;Tejido conjuntivo, subcutáneo y de otros tejidos blandos de (ver lista bajo C49): • ingle • nalga • perineo • región glútea • región inguinal • región sacrococcígea Arteria ilíaca Músculo glúteo mayor Vena ilíaca
+C49.6;Tejido conjuntivo, subcutáneo y otros tejidos blandos del tronco, SAI;Tejido conjuntivo, subcutáneo y otros tejidos blandos de (ver lista bajo C49): • espalda • flanco • tronco
+C49.0;Tejido conjuntivo, subcutáneo y otros tejidos blandos de la cabeza, la cara y el cuello (excluye Tejido conjuntivo de la órbita C69.6 y Cartílago nasal C30.0);(excluye tejido conectivo de la órbita, C69.6, y cartílago nasal, C30.0) Tejido conjuntivo, subcutáneo y otros tejidos blandos de (ver lista bajo C49): • cabeza • cara • cuello • cuero cabelludo • fosa pterigoidea • frente • mejilla • mentón • región cervical • región supraclavicular • sien Arteria carótida Cartílago auricular Cartílago del oído Músculo esternocleidomastoideo Músculo masetero
+C49.2;Tejido conjuntivo, subcutáneo y otros tejidos blandos de la extremidad inferior y cadera;Tejido conjuntivo, subcutáneo y otros tejidos blandos de (ver lista bajo C49): • cadera • dedo • hueco poplíteo • muslo • pantorrilla • pie • pierna • rodilla • talón • tobillo Aponeurosis plantar Arteria femoral Fascia plantar Músculo bíceps femoral Músculo cuádriceps femoral Músculo gastrocnemio
+C49.3;Tejido conjuntivo, subcutáneo y otros tejidos blandos del tórax (excluye Timo C37.9, Corazón y Mediastino C38._);(excluye timo, C37.9, corazón y mediastino, C38._) Tejido conjuntivo, subcutáneo y otros tejidos blandos de (ver lista bajo C49): • axila • pared pectoral • pared torácica • pecho • región escapular • región infraclavicular • tórax Aorta, SAI Arteria axilar Arteria mamaria interna Arteria subclavia Conducto torácico Diafragma Músculo dorsal largo Músculo intercostal Músculo pectoral mayor Músculo trapecio Vena cava superior
+C49.4;Tejido conjuntivo, subcutáneo y otros tejidos blandos del abdomen;Tejido conjuntivo, subcutáneo y otros tejidos blandos de (ver lista bajo C49): • abdomen • ombligo • pared abdominal Aorta abdominal Arteria celíaca Arteria mesentérica Arteria renal Músculo de la pared abdominal Músculo iliopsoas Músculo psoas Músculo recto abdominal Vena cava, SAI Vena cava abdominal Vena cava inferior
+C49.8;Lesión solapada, que comparte los límites de dos o más subcategorías del tejido conjuntivo,subcutáneo y otros tejidos blandos;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C49.9;Tejido conjuntivo, subcutáneo y otros tejidos blandos, SAI;Aponeurosis, SAI Arteria, SAI Bolsa sinovial, SAI Fascia, SAI Ligamento, SAI Linfático, SAI Músculo, SAI Músculo esquelético, SAI Sinovia, SAI Tejido, SAI Tejido adiposo, SAI Tejido conectivo, SAI Tejido fibroso, SAI Tejido subcutáneo, SAI Tendón, SAI Vaina tendinosa, SAI Vaso, SAI Vaso sanguíneo, SAI Vena, SAI
+C50.0;Pezón;Aréola
+C50.1;Porción central de la mama;
+C50.2;Cuadrante superior interno de la mama;
+C50.3;Cuadrante inferior interno de la mama;
+C50.4;Cuadrante superior externo de la mama;
+C50.5;Cuadrante inferior externo de la mama;
+C50.6;Prolongación axilar de la mama;Cola de la mama, SAI
+C50.8;Lesión solapada, que comparte los límites de dos o más subcategorías de la mama;Línea media de la mama Mama externa Mama inferior Mama interna Mama superior (Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.)
+C50.9;Mama, SAI (excluye Piel de la mama C44.5);Glándula mamaria
+C51.0;Labio mayor;Labios mayores, SAI Glándula de Bartholin Piel de los labios mayores
+C51.1;Labio menor;Labios menores
+C51.2;Clítoris;
+C51.9;Vulva, SAI;Labio, SAI Labios, SAI Genitales femeninos externos Horquilla vulvar Monte púbico Monte de Venus Piel de la vulva Pudendo
+C51.8;Lesión solapada, que comparte los límites de dos o más subcategorías de la vulva;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C52.9;Vagina, SAI;Conducto de Gartner Cúpula vaginal Fórnix vaginal Himen
+C53.0;Endocérvix;Orificios internos Canal cervical Canal endocervical Glándula de Naboth Glándula endocervica
+C53.1;Exocérvix;Orificios externos
+C53.9;Cuello del útero, SAI;Cérvix, SAI Cérvix uterino
+C53.8;Lesión solapada, que comparte los límites de dos o más subcategorías del cuello del útero;Muñón cervical Unión escamocolumnar del cuello uterino (Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.)
+C54.0;Istmo del útero;Segmento inferior del útero
+C54.1;Endometrio;Estroma endometrial Glándula endometrial
+C54.2;Miometrio;
+C54.3;Fondo del útero;
+C54.9;Cuerpo del útero, SAI;Cuerpo del útero
+C54.8;Lesión solapada, que comparte los límites de dos o más subcategorías del cuerpo del útero;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C55.9;Utero, SAI;Uterino, SAI
+C56.9;Ovario;
+C57.0;Trompa de Falopio;Tubo uterino
+C57.1;Ligamento ancho;Mesoovario Región paraovárica
+C57.2;Ligamento redondo;
+C57.3;Parametrio;Ligamento uterino Ligamento uterosacro
+C57.4;Anexos uterinos;Anexos, SAI
+C57.7;Otras localizaciones especificadas del aparato genital femenino;Conducto de Wolffian Cuerpo de Wolffian
+C57.9;Aparato genital femenino, SAI;Órganos genitales femeninos, SAI Tabique uretrovaginal Tabique vesicovaginal Tejido vesicocervical Tracto genital femenino, SAI
+C57.8;Lesión solapada del aparato genital femenino;Nota: neoplasias de los órganos genitales femeninos cuyo sitio de origen no puede ser asignado a ninguna de las categorías C51 a C57.7, C58. Tuboováricos Uteroováricos
+C58.9;Placenta;Membranas fetales
+C60.0;Prepucio;Piel del prepucio
+C60.1;Glande;
+C60.9;Pene, SAI;Piel del pene
+C60.2;Cuerpo del pene;Cuerpo cavernoso Cuerpo del pene
+C60.8;Lesión solapada, que comparte los límites de dos o más subcategorías del pene;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C61.9;Glándula prostática;Próstata, SAI
+C62.0;Testículo no descendido (localización del tumor);Testículo ectópico (sitio de la neoplasia) Testículo retenido (sitio de la neoplasia)
+C62.1;Testículo descendido;Testículo escrotal
+C62.9;Testículo, SAI;Testículo, SAI
+C63.0;Epidídimo;
+C63.2;Escroto, SAI;Piel del escroto
+C63.7;Otras localizaciones especificadas del aparato genital masculino;Túnica vaginal Vesícula seminal
+C63.9;Aparato genital masculino, SAI;Tracto genital masculino, SAI Tracto genitourinario, SAI
+C63.1;Cordón espermático;Vasos deferentes
+C63.8;Lesión solapada del aparato genital masculino;Nota: neoplasias de los órganos genitales masculinos cuyo sitio de origen no puede ser asignado a ninguna de las categorías C60 a C63.7.
+C64.9;Riñón, SAI;Parénquima renal Renal, SAI
+C65.9;Pelvis renal;Pelvis del riñón Cálices renales Cáliz renal Unión pelviureteral
+C66.9;Uréter;
+C67.0;Trígono vesical;
+C67.1;Cúpula vesical;
+C67.2;Pared lateral de la vejiga;
+C67.3;Pared anterior de la vejiga;
+C67.4;Pared posterior de la vejiga;
+C67.5;Cuello vesical;Orificio uretral interno
+C67.6;Orificio ureteral;
+C67.7;Uraco;
+C67.9;Vejiga, SAI;Pared de la vejiga urinaria, SAI Vejiga urinaria, SAI
+C67.8;Lesión solapada, que comparte los límites de dos o más subcategorías de la vejiga;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C68.0;Uretra;Glándula de Cowper Glándula uretral Utrículo prostático
+C68.1;Glándula parauretral;
+C68.9;Aparato urinario, SAI;
+C68.8;Lesión solapada del aparato urinario;Nota: neoplasias de los órganos urinarios cuyo sitio de origen no puede ser asignado a ninguna de las categorías C64 a C68.1.
+C69.0;Conjuntiva;
+C69.1;Córnea, SAI;Limbo de la córnea
+C69.2;Retina;
+C69.3;Coroides;
+C69.4;Cuerpo ciliar;Esclerótica Globo ocular Intraocular Iris Lentes cristalinas Tracto uveal
+C69.9;Ojo, SAI;
+C69.5;Glándula lagrimal;Conducto lagrimal, SAI Conducto nasolacrimal Conducto nasolagrimal Saco lacrimal
+C69.6;Orbita, SAI;Músculo extraocular Nervios periféricos de la órbita Sistema nervioso autónomo de la órbita Tejido blando de la órbita Tejido conjuntivo de la órbita Tejido retrobulbar
+C69.8;Lesión solapada, que comparte los límites de dos o más subcategorías del ojo y anexos;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C70.0;Meninges cerebrales;Aracnoides intracraneal Duramadre craneal Hoz, SAI Hoz del cerebelo Hoz del cerebro Meninges craneales Meninges intracraneales Piamadre craneal Tentorio del cerebelo Tentorio, SAI
+C70.9;Meninges, SAI;Aracnoides, SAI Dura, SAI Duramadre, SAI Piamadre, SAI
+C70.1;Meninges espinales;Aracnoides espinal Duramadre espinal Piamadre espinal
+C71.1;Lóbulo frontal;Polo frontal
+C71.2;Lóbulo temporal;Hipocampo Uncus
+C71.3;Lóbulo parietal;
+C71.6;Cerebelo, SAI;Ángulo pontocerebeloso Vermis del cerebelo
+C71.9;Encéfalo, SAI;Fosa craneal, SAI Fosa craneal anterior Fosa craneal media Fosa craneal posterior Localización intracraneal Supraselar
+C71.0;Cerebro, SAI;Cápsula interna Corteza cerebral Cuerpo estriado Encéfalo supratentorial, SAI Ganglios basales Globus pallidus Hemisferio cerebral Hipotálamo Ínsula Islote de Reil Opérculo Palio Putamen Rinencéfalo Sustancia blanca central Sustancia blanca cerebral Tálamo
+C71.4;Lóbulo occipital;Polo occipital
+C71.5;Ventrículo, SAI;Epéndimo Plexo coroideo, SAI Plexo coroideo del tercer ventrículo Plexo coroideo del ventrículo lateral Tercer ventrículo, SAI Ventrículo cerebral Ventrículo lateral, SAI
+C71.7;Tallo cerebral;Cuarto ventrículo, SAI Encéfalo infratentorial, SAI Médula oblonga Mesencéfalo Oliva Pedúnculo cerebral Pedúnculo basal Pirámide Plexo coroideo del cuarto ventrículo Puente de Varolio
+C71.8;Lesión solapada, que comparte los límites de dos o más subcategorías del encéfalo;Cuerpo calloso Tapetum (Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.)
+C72.1;Cola de caballo;
+C72.2;Nervio olfatorio;
+C72.3;Nervio óptico;Quiasma óptico Tracto óptico
+C72.4;Nervio auditivo;
+C72.9;Sistema nervioso, SAI;Epidural Extradural Parasellar Sistema nervioso centra
+C72.0;Médula espinal;Cono medular Filum terminale Médula cervical Médula lumbar Médula sacra Médula torácica
+C72.5;Nervio craneal, SAI;Nervio abductor Nervio accesorio, SAI Nervio accesorio espinal Nervio facial Nervio glosofaríngeo Nervio hipogloso Nervio motor ocular Nervio trigémino Nervio troclear Nervio vago
+C72.8;Lesión solapada del encéfalo y sistema nervioso central;Nota: neoplasias del encéfalo y el sistema nervioso central cuyo sitio de origen no puede ser asignado a ninguna de las categorías C70 a C72.5
+C73.9;Glándula tiroides;Tiroides, SAI Conducto tirogloso
+C74.0;Corteza suprarrenal;
+C74.1;Médula suprarrenal;
+C74.9;Glándula suprarrenal, SAI;Adrenal, SAI Glándula adrenal
+C75.0;Glándula paratiroides;
+C75.1;Hipófisis;Hipófisis Pituitaria, SAI Bolsa de Rathke Fosa pituitaria Silla turca
+C75.2;Conducto craneofaríngeo;
+C75.3;Glándula pineal;
+C75.4;Cuerpo carotídeo;
+C75.9;Glándula endocrina, SAI;
+C75.5;Cuerpo aórtico y otros paraganglios;Cuerpo coccígeo Cuerpo paraaórtico Órgano de Zuckerkandl Glomo coccígeo Glomo yugular Paraganglio
+C75.8;Lesión solapada, que comparte los límites de dos o más subcategorías de las glándulas endocrinas y estructuras afines;Glándulas endocrinas múltiples Pluriglandular (Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.)
+C76.0;Cabeza, cara, cuello, SAI;Maxilar, SAI Mejilla, SAI Nariz, SAI Región cervical, SAI Región supraclavicular, SAI
+C76.2;Abdomen, SAI;Pared abdominal, SAI Sitio intrabdominal, SAI
+C76.4;Extremidad superior, SAI;Antebrazo, SAI Brazo, SAI Codo, SAI Dedo, SAI Espacio cubital anterior, SAI Hombro, SAI Mano, SAI Muñeca, SAI Pulgar, SAI
+C76.7;Otras localizaciones mal definidas;Espalda, SAI Flanco, SAI Tronco, SAI
+C76.1;Tórax, SAI;Axila, SAI Pared del pecho, SAI Pared torácica, SAI Pecho, SAI Región escapular, SAI Región infraclavicular, SAI Sitio intratorácico, SAI Tórax, SAI
+C76.3;Pelvis, SAI;Fosa isquiorrectal Ingle, SAI Nalga, SAI Pared pelviana, SAI Periné, SAI Región glútea, SAI Región inguinal, SAI Región perirrectal, SAI Región presacra, SAI Región sacrococcígea, SAI Tabique rectovaginal Tabique rectovesical
+C76.5;Extremidad inferior, SAI;Cadera, SAI Dedo, SAI Hueco poplíteo, SAI Muslo, SAI Pantorrilla, SAI Pie, SAI Pierna, SAI Rodilla, SAI Talón, SAI Tobillo, SAI
+C76.8;Lesión solapada, que comparte los límites de dos o más subcategorías de localizaciones mal definidas;Nota: en las categorías C00 al C80.9, las neoplasias deben ser clasificadas en la subcategoría que incluye el sitio de origen del tumor. Un tumor que sobrepase los límites de dos o más subcategorías y cuyo sitio de origen no se puede determinar, se debe clasificar en la subcategoría “.8”. Por ejemplo, una neoplasia del esófago cervicotorácico se debe codificar en C15.8.
+C77.8;Ganglios linfáticos de regiones múltiples;
+C77.9;Ganglio linfático, SAI;
+C77.3;Ganglios linfáticos de la axila y la extremidad superior;Ganglio linfático axilar Ganglio linfático braquial Ganglio linfático cubital Ganglio linfático de la extremidad superior Ganglio linfático epitroclear Ganglio linfático infraclavicular Ganglio linfático pectoral Ganglio linfático subclavicular Ganglio linfático subescapular
+C77.0;Ganglios linfáticos de la cabeza, la cara y el cuello;Ganglio linfático auricular Ganglio linfático cervical Ganglio linfático escaleno Ganglio linfático facial Ganglio linfático mandibular Ganglio linfático occipital Ganglio linfático parotídeo Ganglio linfático preauricular Ganglio linfático prelaríngeo Ganglio linfático pretraqueal Ganglio linfático retrofaríngeo Ganglio linfático sublingual Ganglio linfático submandibular Ganglio linfático submaxilar Ganglio linfático submentoniano Ganglio linfático supraclavicular Ganglio linfático yugular
+C77.1;Ganglios linfáticos intratorácicos;Ganglio linfático broncopulmonar Ganglio linfático bronquial Ganglio linfático diafragmático Ganglio linfático esofágico Ganglio linfático hiliar Ganglio linfático hiliar pulmonar Ganglio linfático innominado Ganglio linfático intercostal Ganglio linfático mediastínico Ganglio linfático paraesternal Ganglio linfático pulmonar Ganglio linfático torácico Ganglio linfático traqueal Ganglio linfático traqueobronquial
+C77.2;Ganglios linfáticos intrabdominales;Ganglio linfático abdominal Ganglio linfático aórtico Ganglio linfático celíaco Ganglio linfático cólico Ganglio linfático del conducto común Ganglio linfático esplénico, SAI Ganglio linfático gástrico Ganglio linfático hepático Ganglio linfático hiliar esplénico Ganglio linfático ileocólico Ganglio linfático intestinal Ganglio linfático lumbar Ganglio linfático mesentérico, SAI Ganglio linfático mesentérico inferior Ganglio linfático mesentérico superior Ganglio linfático mesocólico Ganglio linfático pancreático, SAI Ganglio linfático paraaórtico Ganglio linfático periaórtico Ganglio linfático peripancreático Ganglio linfático pilórico Ganglio linfático portahepático Ganglio linfático portal Ganglio linfático retroperitoneal 
+C77.4;Ganglios linfáticos de la región inguinal y la extremidad inferior;Ganglio linfático crural Ganglio linfático de Cloquet Ganglio linfático de la extremidad inferior Ganglio linfático de Rosenmüller Ganglio linfático femoral Ganglio linfático inguinal Ganglio linfático poplíteo Ganglio linfático subinguinal Ganglio linfático tibial
+C77.5;Ganglios linfáticos de la pelvis;Ganglio linfático epigástrico inferior Ganglio linfático hipogástrico Ganglio linfático ilíaco Ganglio linfático intrapélvico Ganglio linfático obturador Ganglio linfático paracervical Ganglio linfático parametrial Ganglio linfático presinfisial Ganglio linfático sacro
+C80.9;Localización primaria desconocida;
