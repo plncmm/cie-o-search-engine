@@ -2,7 +2,7 @@ import fastapi
 import whoosh.index
 import whoosh.qparser
 
-app = fastapi.FastAPI(title="CIE-O-3-M Search Engine", description="API for searching in CIE-O-3-M", version="1.0")
+app = fastapi.FastAPI(title="CIE-O-3 Search Engine", description="API for searching in CIE-O-3", version="1.0")
 
 ix_m = whoosh.index.open_dir("index_m")
 parser_m = whoosh.qparser.MultifieldParser(["description","description_additional"], ix_m.schema, group=whoosh.qparser.OrGroup.factory(0.9))
