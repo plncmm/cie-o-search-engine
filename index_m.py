@@ -23,14 +23,14 @@ schema = whoosh.fields.Schema(
 )
 
 
-if not os.path.exists("index"):
-    os.mkdir("index")
-ix = whoosh.index.create_in("index", schema)
+if not os.path.exists("index_m"):
+    os.mkdir("index_m")
+ix = whoosh.index.create_in("index_m", schema)
 
 writer = ix.writer()
 
 
-with open('cie-o.csv', newline='', encoding="utf-8-sig") as csvfile:
+with open('cie-o-m.csv', newline='', encoding="utf-8-sig") as csvfile:
     reader = csv.DictReader(csvfile, delimiter=";")
     for row in reader:
         writer.add_document(code=row["code"],description=row["description"],description_additional=row["description_additional"])
