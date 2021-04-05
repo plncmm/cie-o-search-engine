@@ -14,7 +14,12 @@ async def search_cieom(q: str):
     results = searcher_m.search(myquery, limit=10, terms=True)
     response = []
     for result in results:
-        response.append(result.fields())
+        hit = {
+            "code":result["code"],
+            "description":result["description"],
+            "score":result.score,
+        }
+        response.append(hit)
     return response
 
 ix_t = whoosh.index.open_dir("index_t")
@@ -22,12 +27,17 @@ parser_t = whoosh.qparser.MultifieldParser(["description","description_additiona
 searcher_t = ix_t.searcher()
 
 @app.get("/cie-o-t")
-async def search_cieom(q: str):  
+async def search_cieot(q: str):  
     myquery = parser_t.parse(q)
     results = searcher_t.search(myquery, limit=10, terms=True)
     response = []
     for result in results:
-        response.append(result.fields())
+        hit = {
+            "code":result["code"],
+            "description":result["description"],
+            "score":result.score,
+        }
+        response.append(hit)
     return response
 
 @app.on_event('shutdown')
