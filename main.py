@@ -1,6 +1,11 @@
 import fastapi
 import whoosh.index
 import whoosh.qparser
+import json
+
+with open("priors_m.json") as m, open("priors_t.json") as t:
+    priors_m = json.load(m)
+    priors_t = json.load(t)
 
 app = fastapi.FastAPI(title="CIE-O-3 Search Engine", description="API for searching in CIE-O-3", version="1.0")
 
@@ -19,6 +24,12 @@ async def search_cieom(q: str):
             "description":result["description"],
             "score":result.score,
         }
+        
+        if hit["code"] in priors_m:
+            hit["prior"] = priors_m[hit["code"]]
+        else:
+            hit["prior"] = None
+            
         response.append(hit)
     return response
 
@@ -37,6 +48,12 @@ async def search_cieot(q: str):
             "description":result["description"],
             "score":result.score,
         }
+        
+        if hit["code"] in priors_t:
+            hit["prior"] = priors_t[hit["code"]]
+        else:
+            hit["prior"] = None
+        
         response.append(hit)
     return response
 
